@@ -31,7 +31,7 @@ Por esto este análisis de tratar con cautela y no se deben tomar los resultados
 Tomando en cuenta de que alguna de los archivos del dataset tiene millones de filas o registros podríamos usar varias herramientas como Excel con Power Pivot y Acess, SQL y una base de datos, Python o R.
 Para este caso vamos a usar el lenguaje de programación Python tanto para manipular como para graficar los datos.
 Si quieres saber cómo manipule los datos te recomiendo ir al archivo main.py
-link
+https://github.com/drincon02/analisis-bellabeat-python/blob/main/main.py
 
 ## Análisis Final:
 El objetivo principal de este análisis es obtener información, tendencias acerca del uso que se les da a los productos de FitBit y como ese conocimiento puede ser aplicado a Bellabeat.
